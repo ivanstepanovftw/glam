@@ -1,0 +1,4 @@
+pytorch
+PyMuPDF
+tesserocr
+qoi
