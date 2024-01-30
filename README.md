@@ -4,6 +4,9 @@ Graph-based Layout Analysis Model (GLAM) is a deep learning model for document l
 
 Unofficial implementation in PyTorch of "A Graphical Approach to Document Layout Analysis" [[arXiv]](https://arxiv.org/abs/2308.02051).
 
+![imgur/WfUbA0B](https://i.imgur.com/l0q8eWn.png)
+Examples of GLAM predictions on PubLayNet documents. Bounding boxes in orange, blue, green, magenta, and red colors represent predicted segments in text, title, list, table, and figure categories, respectively.
+
 ## Introduction
 
 The Graph-based Layout Analysis Model (GLAM) is a novel deep learning model designed for advanced document layout analysis. This repository contains an unofficial PyTorch implementation of the model as described in the paper "A Graphical Approach to Document Layout Analysis". You can find the original paper [here](https://arxiv.org/abs/2308.02051).
