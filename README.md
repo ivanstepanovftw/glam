@@ -1,5 +1,8 @@
 # GLAM
 
+> [!CAUTION]
+> Dependency PyMuPDF with AGPL-3.0 license is extensively used in the code and requires to use AGPL-3.0 license, see https://github.com/ivanstepanovftw/glam/issues/2
+
 Graph-based Layout Analysis Model (GLAM) is a deep learning model for document layout analysis.
 
 Unofficial implementation in PyTorch of "A Graphical Approach to Document Layout Analysis" [[arXiv]](https://arxiv.org/abs/2308.02051).
@@ -89,6 +92,9 @@ python dln_glam_inference.py
 * [Unstructured](https://github.com/Unstructured-IO/unstructured)
 
 ## License
+
+> [!CAUTION]
+> Dependency PyMuPDF with AGPL-3.0 license is extensively used in the code and requires to use AGPL-3.0 license, see https://github.com/ivanstepanovftw/glam/issues/2
 
 Licensed under either of
 
